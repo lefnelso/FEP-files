@@ -1,0 +1,1550 @@
+version 1
+molecule LIG
+    atom
+        name           N00
+        initial_type   X1
+        final_type     X1
+        initial_LJ     3.34232 0.10061
+        final_LJ       3.33911 0.10061
+        initial_charge -0.49432
+        final_charge   -0.49099
+    endatom
+    atom
+        name           C01
+        initial_type   X2
+        final_type     X2
+        initial_LJ     3.19636 0.06195
+        final_LJ       3.20181 0.06195
+        initial_charge 0.37018
+        final_charge   0.36646
+    endatom
+    atom
+        name           C02
+        initial_type   X3
+        final_type     X3
+        initial_LJ     3.48647 0.06195
+        final_LJ       3.48807 0.06195
+        initial_charge 0.00435
+        final_charge   0.00100
+    endatom
+    atom
+        name           C03
+        initial_type   X4
+        final_type     X4
+        initial_LJ     3.69181 0.06195
+        final_LJ       3.70123 0.06195
+        initial_charge -0.30650
+        final_charge   -0.29609
+    endatom
+    atom
+        name           C04
+        initial_type   X5
+        final_type     X5
+        initial_LJ     3.67688 0.06195
+        final_LJ       3.66200 0.06195
+        initial_charge -0.28554
+        final_charge   -0.28099
+    endatom
+    atom
+        name           H05
+        initial_type   X6
+        final_type     X32
+        initial_LJ     2.15658 0.03596
+        final_LJ       2.10806 0.03596
+        initial_charge 0.18740
+        final_charge   0.19283
+    endatom
+    atom
+        name           C06
+        initial_type   X7
+        final_type     X6
+        initial_LJ     3.43080 0.06195
+        final_LJ       3.47622 0.06195
+        initial_charge 0.01747
+        final_charge   -0.04121
+    endatom
+    atom
+        name           H07
+        initial_type   X8
+        final_type     X33
+        initial_LJ     2.10979 0.03596
+        final_LJ       2.10317 0.03596
+        initial_charge 0.19349
+        final_charge   0.19389
+    endatom
+    atom
+        name           N08
+        initial_type   X9
+        final_type     X7
+        initial_LJ     2.71584 0.10061
+        final_LJ       2.69617 0.10061
+        initial_charge 0.28215
+        final_charge   0.33495
+    endatom
+    atom
+        name           C09
+        initial_type   X10
+        final_type     X8
+        initial_LJ     3.41825 0.06195
+        final_LJ       3.35901 0.06195
+        initial_charge 0.25057
+        final_charge   0.33106
+    endatom
+    atom
+        name           C0A
+        initial_type   X11
+        final_type     X9
+        initial_LJ     3.66804 0.06195
+        final_LJ       3.73974 0.06195
+        initial_charge -0.23125
+        final_charge   -0.42393
+    endatom
+    atom
+        name           O0B
+        initial_type   X12
+        final_type     X10
+        initial_LJ     2.87894 0.10010
+        final_LJ       2.87397 0.10010
+        initial_charge -0.24157
+        final_charge   -0.23700
+    endatom
+    atom
+        name           C0C
+        initial_type   X13
+        final_type     X11
+        initial_LJ     3.66458 0.06195
+        final_LJ       3.75981 0.06195
+        initial_charge -0.29442
+        final_charge   -0.48131
+    endatom
+    atom
+        name           H0D
+        initial_type   X14
+        final_type     X34
+        initial_LJ     2.10994 0.03596
+        final_LJ       2.05424 0.03596
+        initial_charge 0.17657
+        final_charge   0.21933
+    endatom
+    atom
+        name           C0E
+        initial_type   X15
+        final_type     X12
+        initial_LJ     3.57140 0.06195
+        final_LJ       3.25657 0.06195
+        initial_charge -0.08940
+        final_charge   0.43788
+    endatom
+    atom
+        name           C0F
+        initial_type   X16
+        final_type     X13
+        initial_LJ     3.37769 0.06195
+        final_LJ       3.43335 0.06195
+        initial_charge 0.17954
+        final_charge   0.11692
+    endatom
+    atom
+        name           H0G
+        initial_type   X17
+        final_type     X35
+        initial_LJ     2.17485 0.03596
+        final_LJ       2.13691 0.03596
+        initial_charge 0.16347
+        final_charge   0.20776
+    endatom
+    atom
+        name           H0H
+        initial_type   X18
+        final_type     X30
+        initial_LJ     2.16738 0.03596
+        final_LJ       2.87692 0.06574
+        initial_charge 0.14393
+        final_charge   -0.20140
+    endatom
+    atom
+        name           C0I
+        initial_type   X19
+        final_type     X14
+        initial_LJ     3.36286 0.06195
+        final_LJ       3.32481 0.06195
+        initial_charge 0.21530
+        final_charge   0.28767
+    endatom
+    atom
+        name           C0J
+        initial_type   X20
+        final_type     X15
+        initial_LJ     3.61606 0.06195
+        final_LJ       3.56223 0.06195
+        initial_charge -0.20354
+        final_charge   -0.13513
+    endatom
+    atom
+        name           O0K
+        initial_type   X21
+        final_type     X16
+        initial_LJ     2.91842 0.10010
+        final_LJ       2.90909 0.10010
+        initial_charge -0.30221
+        final_charge   -0.30356
+    endatom
+    atom
+        name           C0M
+        initial_type   X22
+        final_type     X17
+        initial_LJ     3.70717 0.06195
+        final_LJ       3.77476 0.06195
+        initial_charge -0.28074
+        final_charge   -0.46513
+    endatom
+    atom
+        name           H0N
+        initial_type   X23
+        final_type     X36
+        initial_LJ     2.19020 0.03596
+        final_LJ       2.16822 0.03596
+        initial_charge 0.15187
+        final_charge   0.15435
+    endatom
+    atom
+        name           C0O
+        initial_type   X24
+        final_type     X18
+        initial_LJ     3.63588 0.06195
+        final_LJ       3.70765 0.06195
+        initial_charge -0.14475
+        final_charge   -0.32903
+    endatom
+    atom
+        name           C0P
+        initial_type   X25
+        final_type     X19
+        initial_LJ     3.24707 0.06195
+        final_LJ       3.23252 0.06195
+        initial_charge 0.13750
+        final_charge   0.13967
+    endatom
+    atom
+        name           H0Q
+        initial_type   X26
+        final_type     X37
+        initial_LJ     2.17871 0.03596
+        final_LJ       2.15572 0.03596
+        initial_charge 0.15011
+        final_charge   0.19306
+    endatom
+    atom
+        name           C0R
+        initial_type   X27
+        final_type     X20
+        initial_LJ     3.57091 0.06195
+        final_LJ       3.23720 0.06195
+        initial_charge -0.07577
+        final_charge   0.44944
+    endatom
+    atom
+        name           H0S
+        initial_type   X28
+        final_type     X38
+        initial_LJ     2.19146 0.03596
+        final_LJ       2.12273 0.03596
+        initial_charge 0.13070
+        final_charge   0.17910
+    endatom
+    atom
+        name           C0T
+        initial_type   X29
+        final_type     X21
+        initial_LJ     3.33303 0.06195
+        final_LJ       3.35336 0.06195
+        initial_charge -0.04192
+        final_charge   -0.04811
+    endatom
+    atom
+        name           H0U
+        initial_type   X30
+        final_type     X39
+        initial_LJ     2.39411 0.03596
+        final_LJ       2.36911 0.03596
+        initial_charge 0.06032
+        final_charge   0.06627
+    endatom
+    atom
+        name           H0V
+        initial_type   X31
+        final_type     X40
+        initial_LJ     2.39411 0.03596
+        final_LJ       2.36911 0.03596
+        initial_charge 0.06032
+        final_charge   0.06627
+    endatom
+    atom
+        name           N0W
+        initial_type   X32
+        final_type     X22
+        initial_LJ     2.94740 0.10061
+        final_LJ       2.94855 0.10061
+        initial_charge -0.13377
+        final_charge   -0.13942
+    endatom
+    atom
+        name           H0X
+        initial_type   X33
+        final_type     X41
+        initial_LJ     2.37771 0.03596
+        final_LJ       2.33145 0.03596
+        initial_charge 0.09878
+        final_charge   0.10355
+    endatom
+    atom
+        name           H0Y
+        initial_type   X34
+        final_type     X42
+        initial_LJ     2.37771 0.03596
+        final_LJ       2.33145 0.03596
+        initial_charge 0.09878
+        final_charge   0.10355
+    endatom
+    atom
+        name           C0Z
+        initial_type   X35
+        final_type     X23
+        initial_LJ     3.47303 0.06195
+        final_LJ       3.48538 0.06195
+        initial_charge 0.09071
+        final_charge   0.08116
+    endatom
+    atom
+        name           C10
+        initial_type   X36
+        final_type     X24
+        initial_LJ     3.03879 0.06195
+        final_LJ       3.03189 0.06195
+        initial_charge 0.73424
+        final_charge   0.73763
+    endatom
+    atom
+        name           H11
+        initial_type   X37
+        final_type     X43
+        initial_LJ     2.46128 0.03596
+        final_LJ       2.37551 0.03596
+        initial_charge 0.10322
+        final_charge   0.11594
+    endatom
+    atom
+        name           C12
+        initial_type   X38
+        final_type     X25
+        initial_LJ     3.77349 0.06195
+        final_LJ       3.77020 0.06195
+        initial_charge -0.48728
+        final_charge   -0.48077
+    endatom
+    atom
+        name           O13
+        initial_type   X39
+        final_type     X26
+        initial_LJ     3.10674 0.10010
+        final_LJ       3.10524 0.10010
+        initial_charge -0.63777
+        final_charge   -0.63694
+    endatom
+    atom
+        name           N14
+        initial_type   X40
+        final_type     X27
+        initial_LJ     3.20628 0.12993
+        final_LJ       3.21174 0.12883
+        initial_charge -0.60616
+        final_charge   -0.61083
+    endatom
+    atom
+        name           H15
+        initial_type   X41
+        final_type     X44
+        initial_LJ     2.19071 0.03596
+        final_LJ       2.19450 0.03596
+        initial_charge 0.20467
+        final_charge   0.20194
+    endatom
+    atom
+        name           C16
+        initial_type   X42
+        final_type     X28
+        initial_LJ     2.97315 0.06195
+        final_LJ       2.97048 0.06195
+        initial_charge 0.77588
+        final_charge   0.78227
+    endatom
+    atom
+        name           H17
+        initial_type   X43
+        final_type     X45
+        initial_LJ     0.00000 0.00000
+        final_LJ       0.00000 0.00000
+        initial_charge 0.37892
+        final_charge   0.38268
+    endatom
+    atom
+        name           O18
+        initial_type   X44
+        final_type     X29
+        initial_LJ     3.10718 0.10010
+        final_LJ       3.10462 0.10010
+        initial_charge -0.62539
+        final_charge   -0.62611
+    endatom
+    atom
+        name           H19
+        initial_type   X45
+        final_type     X31
+        initial_LJ     2.20868 0.03596
+        final_LJ       2.88887 0.06574
+        initial_charge 0.12187
+        final_charge   -0.21870
+    endatom
+    bond
+        atom0          C0R
+        atom1          H19
+        initial_force  362.37667
+        initial_equil  1.08355
+        final_force    325.98071
+        final_equil    1.34239
+    endbond
+    bond
+        atom0          C0T
+        atom1          H0Y
+        initial_force  337.31449
+        initial_equil  1.09113
+        final_force    331.01986
+        final_equil    1.09083
+    endbond
+    bond
+        atom0          C0T
+        atom1          H0X
+        initial_force  337.31449
+        initial_equil  1.09113
+        final_force    331.01986
+        final_equil    1.09083
+    endbond
+    bond
+        atom0          C0Z
+        atom1          C12
+        initial_force  522.33335
+        initial_equil  1.34209
+        final_force    512.33169
+        final_equil    1.34170
+    endbond
+    bond
+        atom0          C0A
+        atom1          C0E
+        initial_force  484.36384
+        initial_equil  1.35087
+        final_force    477.00897
+        final_equil    1.34803
+    endbond
+    bond
+        atom0          C04
+        atom1          N08
+        initial_force  340.66584
+        initial_equil  1.36229
+        final_force    339.37696
+        final_equil    1.35956
+    endbond
+    bond
+        atom0          C0Z
+        atom1          H11
+        initial_force  370.17640
+        initial_equil  1.08196
+        final_force    360.26978
+        final_equil    1.08251
+    endbond
+    bond
+        atom0          C0A
+        atom1          H0D
+        initial_force  372.75259
+        initial_equil  1.08049
+        final_force    368.86046
+        final_equil    1.07899
+    endbond
+    bond
+        atom0          C0O
+        atom1          H0S
+        initial_force  362.07369
+        initial_equil  1.08300
+        final_force    359.99996
+        final_equil    1.08164
+    endbond
+    bond
+        atom0          C0O
+        atom1          C0R
+        initial_force  382.74899
+        initial_equil  1.38598
+        final_force    370.23181
+        final_equil    1.37847
+    endbond
+    bond
+        atom0          C0C
+        atom1          C0E
+        initial_force  307.78549
+        initial_equil  1.42804
+        final_force    301.41599
+        final_equil    1.41974
+    endbond
+    bond
+        atom0          C10
+        atom1          N14
+        initial_force  314.04824
+        initial_equil  1.37472
+        final_force    308.27057
+        final_equil    1.37429
+    endbond
+    bond
+        atom0          C10
+        atom1          O13
+        initial_force  711.24398
+        initial_equil  1.21353
+        final_force    697.87685
+        final_equil    1.21320
+    endbond
+    bond
+        atom0          O0B
+        atom1          C0F
+        initial_force  284.45434
+        initial_equil  1.37886
+        final_force    279.32246
+        final_equil    1.38054
+    endbond
+    bond
+        atom0          C16
+        atom1          O18
+        initial_force  750.95120
+        initial_equil  1.20962
+        final_force    738.53695
+        final_equil    1.20907
+    endbond
+    bond
+        atom0          C06
+        atom1          C09
+        initial_force  296.29068
+        initial_equil  1.42447
+        final_force    288.75265
+        final_equil    1.42415
+    endbond
+    bond
+        atom0          C06
+        atom1          N08
+        initial_force  273.79523
+        initial_equil  1.39530
+        final_force    267.80355
+        final_equil    1.39456
+    endbond
+    bond
+        atom0          C0C
+        atom1          H0G
+        initial_force  363.95010
+        initial_equil  1.08239
+        final_force    360.16516
+        final_equil    1.08165
+    endbond
+    bond
+        atom0          C0I
+        atom1          C0M
+        initial_force  360.42536
+        initial_equil  1.38951
+        final_force    359.95703
+        final_equil    1.38931
+    endbond
+    bond
+        atom0          C0P
+        atom1          H0V
+        initial_force  326.84244
+        initial_equil  1.09545
+        final_force    321.14242
+        final_equil    1.09525
+    endbond
+    bond
+        atom0          C0I
+        atom1          O0K
+        initial_force  330.85477
+        initial_equil  1.35249
+        final_force    334.55727
+        final_equil    1.34635
+    endbond
+    bond
+        atom0          C0P
+        atom1          H0U
+        initial_force  326.84244
+        initial_equil  1.09545
+        final_force    321.14242
+        final_equil    1.09525
+    endbond
+    bond
+        atom0          C0P
+        atom1          C0T
+        initial_force  231.22099
+        initial_equil  1.51598
+        final_force    225.93287
+        final_equil    1.51599
+    endbond
+    bond
+        atom0          N0W
+        atom1          C10
+        initial_force  267.48502
+        initial_equil  1.38887
+        final_force    261.36274
+        final_equil    1.38943
+    endbond
+    bond
+        atom0          N0W
+        atom1          C0Z
+        initial_force  338.45416
+        initial_equil  1.37643
+        final_force    329.96599
+        final_equil    1.37704
+    endbond
+    bond
+        atom0          C12
+        atom1          C16
+        initial_force  266.96932
+        initial_equil  1.45329
+        final_force    261.21223
+        final_equil    1.45392
+    endbond
+    bond
+        atom0          C0J
+        atom1          C0O
+        initial_force  370.82502
+        initial_equil  1.39254
+        final_force    367.12784
+        final_equil    1.39275
+    endbond
+    bond
+        atom0          C12
+        atom1          H15
+        initial_force  376.75251
+        initial_equil  1.07988
+        final_force    368.02966
+        final_equil    1.07983
+    endbond
+    bond
+        atom0          N00
+        atom1          C01
+        initial_force  1315.10407
+        initial_equil  1.15184
+        final_force    1288.05514
+        final_equil    1.15179
+    endbond
+    bond
+        atom0          C0J
+        atom1          H0N
+        initial_force  362.02449
+        initial_equil  1.08343
+        final_force    357.21990
+        final_equil    1.08310
+    endbond
+    bond
+        atom0          C0E
+        atom1          H0H
+        initial_force  367.72142
+        initial_equil  1.08202
+        final_force    338.50368
+        final_equil    1.34043
+    endbond
+    bond
+        atom0          C01
+        atom1          C02
+        initial_force  337.05820
+        initial_equil  1.42214
+        final_force    331.57701
+        final_equil    1.42191
+    endbond
+    bond
+        atom0          O0K
+        atom1          C0P
+        initial_force  242.44841
+        initial_equil  1.41757
+        final_force    235.97229
+        final_equil    1.41889
+    endbond
+    bond
+        atom0          N14
+        atom1          H17
+        initial_force  476.62924
+        initial_equil  1.01068
+        final_force    465.98738
+        final_equil    1.01084
+    endbond
+    bond
+        atom0          C0F
+        atom1          C0J
+        initial_force  384.73983
+        initial_equil  1.38034
+        final_force    381.46884
+        final_equil    1.37860
+    endbond
+    bond
+        atom0          C0T
+        atom1          N0W
+        initial_force  231.25159
+        initial_equil  1.45750
+        final_force    227.01985
+        final_equil    1.45702
+    endbond
+    bond
+        atom0          C02
+        atom1          C04
+        initial_force  380.48966
+        initial_equil  1.38486
+        final_force    366.16838
+        final_equil    1.38729
+    endbond
+    bond
+        atom0          N14
+        atom1          C16
+        initial_force  275.29013
+        initial_equil  1.40552
+        final_force    270.34659
+        final_equil    1.40551
+    endbond
+    bond
+        atom0          C0F
+        atom1          C0I
+        initial_force  317.07185
+        initial_equil  1.40209
+        final_force    306.88757
+        final_equil    1.40359
+    endbond
+    bond
+        atom0          C02
+        atom1          C03
+        initial_force  317.97201
+        initial_equil  1.41320
+        final_force    315.33170
+        final_equil    1.41074
+    endbond
+    bond
+        atom0          C0M
+        atom1          C0R
+        initial_force  369.68866
+        initial_equil  1.39321
+        final_force    355.98602
+        final_equil    1.38762
+    endbond
+    bond
+        atom0          C0M
+        atom1          H0Q
+        initial_force  361.99503
+        initial_equil  1.08285
+        final_force    359.35883
+        final_equil    1.08147
+    endbond
+    bond
+        atom0          N08
+        atom1          C0A
+        initial_force  318.50197
+        initial_equil  1.38349
+        final_force    315.71187
+        final_equil    1.38577
+    endbond
+    bond
+        atom0          C04
+        atom1          H07
+        initial_force  384.07112
+        initial_equil  1.07728
+        final_force    377.76349
+        final_equil    1.07727
+    endbond
+    bond
+        atom0          C03
+        atom1          C06
+        initial_force  378.94412
+        initial_equil  1.38082
+        final_force    369.36091
+        final_equil    1.38163
+    endbond
+    bond
+        atom0          C03
+        atom1          H05
+        initial_force  386.36382
+        initial_equil  1.07680
+        final_force    377.91771
+        final_equil    1.07688
+    endbond
+    bond
+        atom0          C09
+        atom1          C0C
+        initial_force  433.87742
+        initial_equil  1.35989
+        final_force    427.33021
+        final_equil    1.36066
+    endbond
+    bond
+        atom0          C09
+        atom1          O0B
+        initial_force  313.49340
+        initial_equil  1.35675
+        final_force    315.26463
+        final_equil    1.35254
+    endbond
+    angle
+        atom0          O13
+        atom1          C10
+        atom2          N14
+        initial_force  125.40950
+        initial_equil  2.15017
+        final_force    122.30646
+        final_equil    2.15143
+    endangle
+    angle
+        atom0          C09
+        atom1          C0C
+        atom2          H0G
+        initial_force  59.08727
+        initial_equil  2.10240
+        final_force    55.72166
+        final_equil    2.13425
+    endangle
+    angle
+        atom0          C10
+        atom1          N14
+        atom2          H17
+        initial_force  65.89489
+        initial_equil  2.01341
+        final_force    64.22983
+        final_equil    2.01336
+    endangle
+    angle
+        atom0          C10
+        atom1          N14
+        atom2          C16
+        initial_force  164.54242
+        initial_equil  2.23914
+        final_force    160.87389
+        final_equil    2.23856
+    endangle
+    angle
+        atom0          C12
+        atom1          C16
+        atom2          N14
+        initial_force  224.10932
+        initial_equil  1.97275
+        final_force    219.65837
+        final_equil    1.97247
+    endangle
+    angle
+        atom0          C03
+        atom1          C06
+        atom2          C09
+        initial_force  115.86605
+        initial_equil  2.33263
+        final_force    111.23431
+        final_equil    2.32955
+    endangle
+    angle
+        atom0          C0P
+        atom1          C0T
+        atom2          N0W
+        initial_force  96.03999
+        initial_equil  1.96899
+        final_force    101.48647
+        final_equil    1.96483
+    endangle
+    angle
+        atom0          C03
+        atom1          C06
+        atom2          N08
+        initial_force  139.28660
+        initial_equil  1.89064
+        final_force    132.83773
+        final_equil    1.89125
+    endangle
+    angle
+        atom0          H05
+        atom1          C03
+        atom2          C06
+        initial_force  51.94542
+        initial_equil  2.20399
+        final_force    54.07383
+        final_equil    2.20337
+    endangle
+    angle
+        atom0          C0T
+        atom1          N0W
+        atom2          C10
+        initial_force  146.49183
+        initial_equil  2.04741
+        final_force    144.52452
+        final_equil    2.04486
+    endangle
+    angle
+        atom0          C0C
+        atom1          C0E
+        atom2          H0H
+        initial_force  61.65080
+        initial_equil  2.08989
+        final_force    110.10118
+        final_equil    2.04751
+    endangle
+    angle
+        atom0          C0T
+        atom1          N0W
+        atom2          C0Z
+        initial_force  154.12408
+        initial_equil  2.11547
+        final_force    150.79172
+        final_equil    2.11753
+    endangle
+    angle
+        atom0          C06
+        atom1          C09
+        atom2          C0C
+        initial_force  139.26851
+        initial_equil  2.10088
+        final_force    136.32308
+        final_equil    2.10384
+    endangle
+    angle
+        atom0          C06
+        atom1          C09
+        atom2          O0B
+        initial_force  109.40263
+        initial_equil  1.98601
+        final_force    106.60582
+        final_equil    1.98914
+    endangle
+    angle
+        atom0          C06
+        atom1          N08
+        atom2          C0A
+        initial_force  175.16065
+        initial_equil  2.12875
+        final_force    165.65481
+        final_equil    2.13431
+    endangle
+    angle
+        atom0          C0I
+        atom1          C0F
+        atom2          C0J
+        initial_force  202.94924
+        initial_equil  2.11064
+        final_force    195.85548
+        final_equil    2.11130
+    endangle
+    angle
+        atom0          C12
+        atom1          C16
+        atom2          O18
+        initial_force  125.21942
+        initial_equil  2.21357
+        final_force    122.30104
+        final_equil    2.21245
+    endangle
+    angle
+        atom0          C0I
+        atom1          C0M
+        atom2          C0R
+        initial_force  189.11051
+        initial_equil  2.09349
+        final_force    166.94729
+        final_equil    2.06751
+    endangle
+    angle
+        atom0          C0I
+        atom1          C0M
+        atom2          H0Q
+        initial_force  64.56969
+        initial_equil  2.09663
+        final_force    59.13026
+        final_equil    2.13350
+    endangle
+    angle
+        atom0          C0I
+        atom1          O0K
+        atom2          C0P
+        initial_force  146.59824
+        initial_equil  2.07321
+        final_force    145.57572
+        final_equil    2.08519
+    endangle
+    angle
+        atom0          O0K
+        atom1          C0I
+        atom2          C0M
+        initial_force  162.89766
+        initial_equil  2.18188
+        final_force    162.09926
+        final_equil    2.18255
+    endangle
+    angle
+        atom0          O0B
+        atom1          C09
+        atom2          C0C
+        initial_force  142.57148
+        initial_equil  2.19629
+        final_force    138.14021
+        final_equil    2.19021
+    endangle
+    angle
+        atom0          O0K
+        atom1          C0P
+        atom2          H0V
+        initial_force  66.29669
+        initial_equil  1.92920
+        final_force    64.26034
+        final_equil    1.92832
+    endangle
+    angle
+        atom0          C0M
+        atom1          C0R
+        atom2          H19
+        initial_force  62.66027
+        initial_equil  2.08036
+        final_force    108.88903
+        final_equil    2.05422
+    endangle
+    angle
+        atom0          O0K
+        atom1          C0P
+        atom2          H0U
+        initial_force  66.29669
+        initial_equil  1.92920
+        final_force    64.26034
+        final_equil    1.92832
+    endangle
+    angle
+        atom0          O0K
+        atom1          C0P
+        atom2          C0T
+        initial_force  111.89842
+        initial_equil  1.86899
+        final_force    113.23381
+        final_equil    1.86075
+    endangle
+    angle
+        atom0          O0B
+        atom1          C0F
+        atom2          C0J
+        initial_force  140.98869
+        initial_equil  2.08506
+        final_force    134.81901
+        final_equil    2.09074
+    endangle
+    angle
+        atom0          O0B
+        atom1          C0F
+        atom2          C0I
+        initial_force  132.50620
+        initial_equil  2.08606
+        final_force    126.49731
+        final_equil    2.07958
+    endangle
+    angle
+        atom0          H0D
+        atom1          C0A
+        atom2          C0E
+        initial_force  62.21125
+        initial_equil  2.17606
+        final_force    61.51267
+        final_equil    2.17064
+    endangle
+    angle
+        atom0          N00
+        atom1          C01
+        atom2          C02
+        initial_force  48.56929
+        initial_equil  3.13471
+        final_force    48.46570
+        final_equil    3.13358
+    endangle
+    angle
+        atom0          H0X
+        atom1          C0T
+        atom2          H0Y
+        initial_force  41.84178
+        initial_equil  1.90419
+        final_force    36.55311
+        final_equil    1.90127
+    endangle
+    angle
+        atom0          C0E
+        atom1          C0C
+        atom2          H0G
+        initial_force  61.77448
+        initial_equil  2.09988
+        final_force    56.50006
+        final_equil    2.09017
+    endangle
+    angle
+        atom0          C0R
+        atom1          C0O
+        atom2          H0S
+        initial_force  62.02309
+        initial_equil  2.10212
+        final_force    59.58422
+        final_equil    2.09972
+    endangle
+    angle
+        atom0          N14
+        atom1          C16
+        atom2          O18
+        initial_force  140.78331
+        initial_equil  2.09686
+        final_force    137.63266
+        final_equil    2.09826
+    endangle
+    angle
+        atom0          H0Q
+        atom1          C0M
+        atom2          C0R
+        initial_force  64.59876
+        initial_equil  2.09288
+        final_force    58.16643
+        final_equil    2.08200
+    endangle
+    angle
+        atom0          H07
+        atom1          C04
+        atom2          N08
+        initial_force  68.09979
+        initial_equil  2.12844
+        final_force    67.00146
+        final_equil    2.12776
+    endangle
+    angle
+        atom0          C0T
+        atom1          C0P
+        atom2          H0V
+        initial_force  77.69589
+        initial_equil  1.91651
+        final_force    73.32188
+        final_equil    1.91917
+    endangle
+    angle
+        atom0          C0T
+        atom1          C0P
+        atom2          H0U
+        initial_force  77.69589
+        initial_equil  1.91651
+        final_force    73.32188
+        final_equil    1.91917
+    endangle
+    angle
+        atom0          H0N
+        atom1          C0J
+        atom2          C0O
+        initial_force  64.21591
+        initial_equil  2.12276
+        final_force    62.16832
+        final_equil    2.11058
+    endangle
+    angle
+        atom0          C0J
+        atom1          C0O
+        atom2          H0S
+        initial_force  62.35236
+        initial_equil  2.09259
+        final_force    61.53155
+        final_equil    2.12560
+    endangle
+    angle
+        atom0          C0J
+        atom1          C0O
+        atom2          C0R
+        initial_force  193.74966
+        initial_equil  2.08847
+        final_force    170.44674
+        final_equil    2.05787
+    endangle
+    angle
+        atom0          C0M
+        atom1          C0R
+        atom2          C0O
+        initial_force  191.65147
+        initial_equil  2.10567
+        final_force    222.05848
+        final_equil    2.14950
+    endangle
+    angle
+        atom0          N08
+        atom1          C0A
+        atom2          C0E
+        initial_force  140.01660
+        initial_equil  2.07696
+        final_force    125.79010
+        final_equil    2.04805
+    endangle
+    angle
+        atom0          N08
+        atom1          C0A
+        atom2          H0D
+        initial_force  65.59025
+        initial_equil  2.03017
+        final_force    66.04364
+        final_equil    2.06449
+    endangle
+    angle
+        atom0          C0O
+        atom1          C0R
+        atom2          H19
+        initial_force  63.02168
+        initial_equil  2.09712
+        final_force    109.42958
+        final_equil    2.07946
+    endangle
+    angle
+        atom0          H15
+        atom1          C12
+        atom2          C16
+        initial_force  57.94764
+        initial_equil  2.07310
+        final_force    55.92368
+        final_equil    2.07129
+    endangle
+    angle
+        atom0          C02
+        atom1          C04
+        atom2          H07
+        initial_force  60.35383
+        initial_equil  2.27948
+        final_force    59.81398
+        final_equil    2.27945
+    endangle
+    angle
+        atom0          N08
+        atom1          C06
+        atom2          C09
+        initial_force  127.15138
+        initial_equil  2.05871
+        final_force    120.32516
+        final_equil    2.06161
+    endangle
+    angle
+        atom0          C02
+        atom1          C03
+        atom2          C06
+        initial_force  120.25768
+        initial_equil  1.85402
+        final_force    117.91552
+        final_equil    1.85377
+    endangle
+    angle
+        atom0          C02
+        atom1          C03
+        atom2          H05
+        initial_force  54.64103
+        initial_equil  2.22511
+        final_force    53.39459
+        final_equil    2.22601
+    endangle
+    angle
+        atom0          C0Z
+        atom1          N0W
+        atom2          C10
+        initial_force  173.85560
+        initial_equil  2.11861
+        final_force    169.76856
+        final_equil    2.11823
+    endangle
+    angle
+        atom0          C0F
+        atom1          C0J
+        atom2          C0O
+        initial_force  183.60353
+        initial_equil  2.09111
+        final_force    181.23749
+        final_equil    2.10036
+    endangle
+    angle
+        atom0          C0P
+        atom1          C0T
+        atom2          H0Y
+        initial_force  60.19366
+        initial_equil  1.90723
+        final_force    70.36626
+        final_equil    1.90895
+    endangle
+    angle
+        atom0          C0F
+        atom1          C0J
+        atom2          H0N
+        initial_force  62.70601
+        initial_equil  2.06931
+        final_force    60.95322
+        final_equil    2.07225
+    endangle
+    angle
+        atom0          C01
+        atom1          C02
+        atom2          C04
+        initial_force  106.84037
+        initial_equil  2.17734
+        final_force    103.98516
+        final_equil    2.17844
+    endangle
+    angle
+        atom0          C0P
+        atom1          C0T
+        atom2          H0X
+        initial_force  60.19366
+        initial_equil  1.90723
+        final_force    70.36626
+        final_equil    1.90895
+    endangle
+    angle
+        atom0          N0W
+        atom1          C10
+        atom2          N14
+        initial_force  248.98009
+        initial_equil  1.99361
+        final_force    242.62071
+        final_equil    1.99457
+    endangle
+    angle
+        atom0          C0F
+        atom1          C0I
+        atom2          C0M
+        initial_force  216.70842
+        initial_equil  2.07672
+        final_force    213.90378
+        final_equil    2.07971
+    endangle
+    angle
+        atom0          C01
+        atom1          C02
+        atom2          C03
+        initial_force  116.88367
+        initial_equil  2.20571
+        final_force    112.97494
+        final_equil    2.20550
+    endangle
+    angle
+        atom0          N0W
+        atom1          C10
+        atom2          O13
+        initial_force  123.09520
+        initial_equil  2.13940
+        final_force    120.25484
+        final_equil    2.13719
+    endangle
+    angle
+        atom0          C0F
+        atom1          C0I
+        atom2          O0K
+        initial_force  150.12972
+        initial_equil  2.02458
+        final_force    150.67088
+        final_equil    2.02090
+    endangle
+    angle
+        atom0          C0Z
+        atom1          C12
+        atom2          C16
+        initial_force  159.53853
+        initial_equil  2.08943
+        final_force    155.85904
+        final_equil    2.09057
+    endangle
+    angle
+        atom0          N0W
+        atom1          C0Z
+        atom2          C12
+        initial_force  160.40539
+        initial_equil  2.15212
+        final_force    154.53153
+        final_equil    2.15108
+    endangle
+    angle
+        atom0          C0Z
+        atom1          C12
+        atom2          H15
+        initial_force  58.71506
+        initial_equil  2.12065
+        final_force    56.40291
+        final_equil    2.12132
+    endangle
+    angle
+        atom0          N0W
+        atom1          C0Z
+        atom2          H11
+        initial_force  70.13111
+        initial_equil  2.00532
+        final_force    67.62635
+        final_equil    2.00753
+    endangle
+    angle
+        atom0          C02
+        atom1          C04
+        atom2          N08
+        initial_force  119.48036
+        initial_equil  1.87527
+        final_force    115.33953
+        final_equil    1.87596
+    endangle
+    angle
+        atom0          C04
+        atom1          N08
+        atom2          C06
+        initial_force  152.79139
+        initial_equil  1.90475
+        final_force    151.41572
+        final_equil    1.90459
+    endangle
+    angle
+        atom0          H11
+        atom1          C0Z
+        atom2          C12
+        initial_force  65.63945
+        initial_equil  2.12572
+        final_force    62.89558
+        final_equil    2.12457
+    endangle
+    angle
+        atom0          N0W
+        atom1          C0T
+        atom2          H0Y
+        initial_force  75.82269
+        initial_equil  1.88762
+        final_force    67.26979
+        final_equil    1.88942
+    endangle
+    angle
+        atom0          N0W
+        atom1          C0T
+        atom2          H0X
+        initial_force  75.82269
+        initial_equil  1.88762
+        final_force    67.26979
+        final_equil    1.88942
+    endangle
+    angle
+        atom0          C04
+        atom1          N08
+        atom2          C0A
+        initial_force  154.82523
+        initial_equil  2.24955
+        final_force    147.71572
+        final_equil    2.24417
+    endangle
+    angle
+        atom0          H0U
+        atom1          C0P
+        atom2          H0V
+        initial_force  44.34254
+        initial_equil  1.90318
+        final_force    47.64297
+        final_equil    1.90770
+    endangle
+    angle
+        atom0          C0A
+        atom1          C0E
+        atom2          C0C
+        initial_force  159.95568
+        initial_equil  2.11994
+        final_force    180.99501
+        final_equil    2.15971
+    endangle
+    angle
+        atom0          C09
+        atom1          O0B
+        atom2          C0F
+        initial_force  135.61244
+        initial_equil  2.06173
+        final_force    132.12477
+        final_equil    2.06056
+    endangle
+    angle
+        atom0          C09
+        atom1          C0C
+        atom2          C0E
+        initial_force  151.79259
+        initial_equil  2.08067
+        final_force    137.77117
+        final_equil    2.05863
+    endangle
+    angle
+        atom0          C16
+        atom1          N14
+        atom2          H17
+        initial_force  67.76633
+        initial_equil  2.03040
+        final_force    66.14014
+        final_equil    2.03078
+    endangle
+    angle
+        atom0          C0A
+        atom1          C0E
+        atom2          H0H
+        initial_force  58.90186
+        initial_equil  2.07335
+        final_force    101.02971
+        final_equil    2.07595
+    endangle
+    angle
+        atom0          C03
+        atom1          C02
+        atom2          C04
+        initial_force  136.69207
+        initial_equil  1.90010
+        final_force    133.85008
+        final_equil    1.89921
+    endangle
+    dihedral
+        atom0          C10
+        atom1          N14
+        atom2          H17
+        atom3          C16
+        initial_form   2.5000 2.0 3.141593
+        final form     0.0000 2.0 3.141593
+    enddihedral
+    dihedral
+        atom0          C09
+        atom1          C0C
+        atom2          C0E
+        atom3          H0H
+        initial_form   -0.1860 3.0 -0.000000
+        final_form     3.6250 2.0 3.141593
+    enddihedral
+    dihedral
+        atom0          H0D
+        atom1          C0A
+        atom2          C0E
+        atom3          H0H
+        initial_form   7.0000 2.0 3.141593
+        final_form     3.6250 2.0 3.141593
+    enddihedral
+    dihedral
+        atom0          N08
+        atom1          C0A
+        atom2          C0E
+        atom3          H0H
+        initial_form   -0.1860 3.0 -0.000000
+        final_form     7.0000 2.0 3.141593
+    enddihedral
+    improper
+        atom0          C0T
+        atom1          C0Z
+        atom2          N0W
+        atom3          C10
+        initial_form   0.0000 2.0 3.141593
+        final_form     3.6250 2.0 3.141593
+    endimproper
+    improper
+        atom0          C10
+        atom1          C16
+        atom2          N14
+        atom3          H17
+        initial_form   0.0000 2.0 3.141593
+        final_form     3.6250 2.0 3.141593
+    endimproper
+    improper
+        atom0          C04
+        atom1          C06
+        atom2          N08
+        atom3          C0A
+        initial_form   0.0000 2.0 3.141593
+        final_form     3.6250 2.0 3.141593
+    endimproper
+endmolecule
