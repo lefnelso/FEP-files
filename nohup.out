@@ -1,0 +1,277 @@
+/home/nvk28/Documents/Work/HIV/Group2/Perturbations/L1_to_L4/unbound
+NaN or Inf has been generated along the simulation
+Starting somd-freenrg: number of threads equals 48
+		=======================
+				done L1_to_L4  lambda 0.0 	
+			=======================
+NaN or Inf has been generated along the simulation
+Starting somd-freenrg: number of threads equals 48
+		=======================
+				done L1_to_L4  lambda 0.1 	
+			=======================
+NaN or Inf has been generated along the simulation
+Starting somd-freenrg: number of threads equals 48
+		=======================
+				done L1_to_L4  lambda 0.2 	
+			=======================
+NaN or Inf has been generated along the simulation
+Starting somd-freenrg: number of threads equals 48
+		=======================
+				done L1_to_L4  lambda 0.3 	
+			=======================
+NaN or Inf has been generated along the simulation
+Starting somd-freenrg: number of threads equals 48
+		=======================
+				done L1_to_L4  lambda 0.4 	
+			=======================
+NaN or Inf has been generated along the simulation
+Starting somd-freenrg: number of threads equals 48
+		=======================
+				done L1_to_L4  lambda 0.5 	
+			=======================
+NaN or Inf has been generated along the simulation
+Starting somd-freenrg: number of threads equals 48
+		=======================
+				done L1_to_L4  lambda 0.6 	
+			=======================
+NaN or Inf has been generated along the simulation
+Starting somd-freenrg: number of threads equals 48
+		=======================
+				done L1_to_L4  lambda 0.7 	
+			=======================
+NaN or Inf has been generated along the simulation
+Starting somd-freenrg: number of threads equals 48
+		=======================
+				done L1_to_L4  lambda 0.8 	
+			=======================
+NaN or Inf has been generated along the simulation
+Starting somd-freenrg: number of threads equals 48
+		=======================
+				done L1_to_L4  lambda 0.9 	
+			=======================
+NaN or Inf has been generated along the simulation
+Starting somd-freenrg: number of threads equals 48
+		=======================
+				done L1_to_L4  lambda 1.0 	
+			=======================
+/home/nvk28/Documents/Work/HIV/Group2/Perturbations/L4_to_L1/unbound
+NaN or Inf has been generated along the simulation
+Starting somd-freenrg: number of threads equals 48
+		=======================
+				done L4_to_L1  lambda 0.0 	
+			=======================
+NaN or Inf has been generated along the simulation
+Starting somd-freenrg: number of threads equals 48
+		=======================
+				done L4_to_L1  lambda 0.1 	
+			=======================
+NaN or Inf has been generated along the simulation
+Starting somd-freenrg: number of threads equals 48
+		=======================
+				done L4_to_L1  lambda 0.2 	
+			=======================
+
+Loading configuration information from file /home/nvk28/Documents/Work/HIV/Group2/Parameters/lambda.cfg
+
+Running a somd-freenrg calculation using files ../L4_to_L1.prm7, ../L4_to_L1.rst7 and ../L4_to_L1.pert.
+Using parameters:
+===============
+andersen == True
+barostat == True
+buffered coordinates frequency == 5000
+center solute == True
+combining rules == geometric
+constraint == hbonds-notperturbed
+crdfile == ../L4_to_L1.rst7
+cutoff distance == 10 angstrom
+cutoff type == cutoffperiodic
+energy frequency == 250
+equilibrate == True
+equilibration iterations == 5000
+hydrogen mass repartitioning factor == 1.0
+lambda array == (0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0)
+lambda_val == 0.3
+minimal coordinate saving == True
+minimise == True
+morphfile == ../L4_to_L1.pert
+ncycles == 75
+nmoves == 20000
+platform == CUDA
+precision == mixed
+reaction field dielectric == 82.0
+save coordinates == True
+timestep == 0.002 ps
+topfile == ../L4_to_L1.prm7
+verbose == True
+===============
+### Running Single Topology Molecular Dynamics Free Energy on unknown ###
+###================= Simulation Parameters=====================###
+andersen frequency = 10.0
+barostat = True
+barostat frequency = 25
+buffered coordinates frequency = 5000
+center of mass frequency = 10
+center solute = True
+combining rules = geometric
+constraint = hbonds-notperturbed
+coulomb power = 0
+crdfile = ../L4_to_L1.rst7
+cutoff distance = 10 angstrom
+cutoff type = cutoffperiodic
+dcd root = traj
+delta_lambda = 0.001
+distance restraints dictionary = {}
+energy frequency = 250
+equilibrate = True
+equilibration iterations = 5000
+equilibration timestep = 0.0005 ps
+freeze residues = False
+frozen residues = ['LGR', 'SIT', 'NEG', 'POS']
+gpu = 0
+heavy mass restraint = 1.1
+hydrogen mass repartitioning factor = 1.0
+integrator = leapfrogverlet
+inverse friction = 0.1 ps
+lambda array = (0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0)
+lambda_val = 0.3
+lj dispersion = False
+maxcycles = 99999
+minimal coordinate saving = True
+minimise = True
+minimise maximum iterations = 1000
+minimise tolerance = 1
+morphfile = ../L4_to_L1.pert
+ncycles = 75
+ncycles_per_snap = 1
+nmoves = 20000
+outdata_file = simfile.dat
+perturbed residue number = 1
+platform = CUDA
+precision = mixed
+pressure = 1 atm
+random seed = None
+reaction field dielectric = 82.0
+restart file = sim_restart.s3
+restraint force constant = 100.0
+s3file = SYSTEM.s3
+save coordinates = True
+shift delta = 2.0
+temperature = 25 C
+thermostat = True
+time to skip = 0 ps
+timestep = 0.002 ps
+topfile = ../L4_to_L1.prm7
+unrestrained residues = ['WAT', 'HOH']
+use distance restraints = False
+use restraints = False
+verbose = True
+###===========================================================###
+
+###================Setting up calculation=====================###
+New run. Loading input and creating restart
+lambda is 0.3
+Create the System...
+Selecting dummy groups
+Applying Hydrogen Mass repartition to input using a factor of 1.0 
+Creating force fields... 
+Setting up the simulation with random seed 724423
+Setting up moves...
+Created a MD move that uses OpenMM for all molecules on 0 
+Generated random seed number 724423 
+Saving restart
+
+=======================================================
+Respecting your privacy - not sending usage statistics.
+Please see http://siremol.org/analytics for more information.
+=======================================================
+
+Setting up sim file. 
+There are 4923 atoms in the group 
+###===========================================================###
+
+###=======================Minimisation========================###
+Running minimisation.
+Energy before the minimisation: -15290.1 kcal mol-1
+Tolerance for minimisation: 1
+Maximum number of minimisation iterations: 1000
+Energy after the minimization: -19903.1 kcal mol-1
+Energy minimization done.
+###===========================================================###
+
+###======================Equilibration========================###
+Running lambda equilibration to lambda=0.3.
+Equilibration timestep 0.0005 ps
+Number of equilibration steps: 5000
+Energy after the annealing: -15461.3 kcal mol-1
+Lambda annealing done.
+
+###===========================================================###
+
+###====================somd-freenrg run=======================###
+Starting somd-freenrg run...
+20000 moves 75 cycles, 3000 ps simulation time
+
+Cycle =  1 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  2 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  3 
+
+Backing up previous restart
+Saving new restart
+
+Cycle =  4 
+
+Starting somd-freenrg: number of threads equals 48
+Traceback (most recent call last):
+  File "/home/nvk28/Documents/Work/smirnoff/miniconda3/envs/fep/share/Sire/scripts/somd-freenrg.py", line 146, in <module>
+    OpenMMMD.runFreeNrg(params)
+  File "/home/nvk28/Documents/Work/smirnoff/miniconda3/envs/fep/lib/python3.7/site-packages/Sire/Tools/__init__.py", line 176, in inner
+    retval = func()
+  File "/home/nvk28/Documents/Work/smirnoff/miniconda3/envs/fep/lib/python3.7/site-packages/Sire/Tools/OpenMMMD.py", line 1676, in runFreeNrg
+    system = moves.move(system, nmoves.val, True)
+RuntimeError: Particle coordinate is nan
+		=======================
+				done L4_to_L1  lambda 0.3 	
+			=======================
+NaN or Inf has been generated along the simulation
+Starting somd-freenrg: number of threads equals 48
+		=======================
+				done L4_to_L1  lambda 0.4 	
+			=======================
+NaN or Inf has been generated along the simulation
+Starting somd-freenrg: number of threads equals 48
+		=======================
+				done L4_to_L1  lambda 0.5 	
+			=======================
+NaN or Inf has been generated along the simulation
+Starting somd-freenrg: number of threads equals 48
+		=======================
+				done L4_to_L1  lambda 0.6 	
+			=======================
+NaN or Inf has been generated along the simulation
+Starting somd-freenrg: number of threads equals 48
+		=======================
+				done L4_to_L1  lambda 0.7 	
+			=======================
+NaN or Inf has been generated along the simulation
+Starting somd-freenrg: number of threads equals 48
+		=======================
+				done L4_to_L1  lambda 0.8 	
+			=======================
+NaN or Inf has been generated along the simulation
+Starting somd-freenrg: number of threads equals 48
+		=======================
+				done L4_to_L1  lambda 0.9 	
+			=======================
+NaN or Inf has been generated along the simulation
+Starting somd-freenrg: number of threads equals 48
+		=======================
+				done L4_to_L1  lambda 1.0 	
+			=======================
